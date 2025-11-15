@@ -1,5 +1,5 @@
-
-[🖥](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==) # *IT Help Desk Answering System – Power BI Dashboard*
+ # *IT Help Desk Answering System – Power BI Dashboard*
+[🖥](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
 
 *A Data-Driven Analysis for Efficient IT Support Operations*
 
