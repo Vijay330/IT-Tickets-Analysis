@@ -39,12 +39,3 @@ The dashboard includes the following analytics:
 | MS Excel / CSV Dataset | Source data used for analysis |
 | DAX Measures | Creating calculated fields and KPIs |
 
-## *Repository Structure*
-IT-Help-Desk-Answering-System
-┣ IT-Help-Desk-Answer.pbix
-┣ README.md
-┗ dataset
-IT-Help-Desk-Answering-System
-┣ IT-Help-Desk-Answer.pbix
-┣ README.md
-┗ dataset
