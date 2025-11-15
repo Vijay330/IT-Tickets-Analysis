@@ -1,35 +1,86 @@
-📊 IT Tickets Analysis Dashboard
-This project presents an interactive IT Tickets Analysis Dashboard designed to monitor, analyze, and improve IT service performance across multiple departments and business units. The dashboard provides insightful visualizations that help stakeholders understand ticket volumes, resolution efficiency, and user satisfaction trends.
-________________________________________
-🚀 Project Overview
-The IT Tickets Analysis Dashboard offers a consolidated view of key IT service metrics, enabling data-driven decision-making. It allows teams to identify bottlenecks, track performance, and enhance support operations by visualizing:
-•	Total users and tickets
-•	Resolution timelines
-•	Departmental ticket distribution
-•	Ticket severity, priority, type, and requestor demographics
-________________________________________
-📌 Key Insights
-•	Total Users: 967
-•	Total Tickets: 100K
-•	Total Days Analyzed: 684K
-•	Total Departments: 15
-•	Average Resolution Days: 6.84
-The dashboard also includes segmented breakdowns such as:
-•	Tickets by Severity (Normal, Major, etc.)
-•	Tickets by Priority (High, Medium, Low, Unassigned)
-•	Tickets by Type (Issue, Request)
-•	Tickets by Gender
-•	Ticket distribution across Business Units and Departments
-________________________________________
-📂 Features
-•	📈 Interactive Charts: Explore ticket trends using filters like severity, priority, department, satisfaction, and more.
-•	🎯 Department-Level Analysis: Quickly identify departments with high ticket load.
-•	🏢 Business Unit Overview: Compare ticket distribution across locations such as Houston, New York City, Seattle, and Los Angeles.
-•	📅 Data Refresh Date: Shows the last updated timestamp for transparency.
-•	🎨 User-Friendly Visual Design: Clean layouts and intuitive visuals for easy interpretation.
-______________________________________
-🛠️ Tools & Technologies
-•	Power BI – Dashboard development
-•	Excel / CSV Dataset – Data processing
-•	Data Modeling – Relationships, measures, and DAX calculations
+# *IT Help Desk Answering System – Power BI Dashboard*
 
+[🖥](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
+
+*A Data-Driven Analysis for Efficient IT Support Operations*
+
+[📘](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
+
+## *Overview*
+
+This project delivers an interactive Power BI dashboard designed to analyze and visualize IT Help Desk ticket data. The dashboard provides actionable insights into ticket volumes, resolution trends, agent performance, SLA compliance, and overall support efficiency. It enables IT teams to monitor operations, identify bottlenecks, and improve customer service outcomes.
+
+[🎯](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
+
+## *Project Objectives*
+
+- Provide a centralized view of IT support activities
+- Track ticket status, priorities, and categories
+- Evaluate agent performance with measurable KPIs
+- Identify recurring issues and workload patterns
+- Support data-driven decisions to optimize help desk operations
+
+[📊](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
+
+## *Key Insights & Metrics*
+
+The dashboard includes the following analytics:
+
+[🔹](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
+
+### *Ticket Insights*
+
+- Total tickets logged
+- Tickets resolved vs. pending
+- Ticket distribution by category & priority
+- Peak ticket days & hours
+
+[🔹](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
+
+### *Performance Metrics*
+
+- Response Time & Resolution Time
+- SLA Compliance Rate
+- Agent-wise ticket count
+- Agent efficiency & workload summary
+
+[🔹](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
+
+### *Trend Analysis*
+
+- Monthly ticket trends
+- Repeat issue patterns
+- Category-wise performance comparison
+
+[🛠](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
+
+## *Tools & Technologies Used*
+
+| *Component* | *Description* |
+| --- | --- |
+| Power BI Desktop | Dashboard development & visualization |
+| Power Query | Data cleaning, transformation, modeling |
+| MS Excel / CSV Dataset | Source data used for analysis |
+| DAX Measures | Creating calculated fields and KPIs |
+
+## *Repository Structure*
+
+
+IT-Help-Desk-Answering-System
+┣ IT-Help-Desk-Answer.pbix
+┣ README.md
+┗ dataset
+
+
+IT-Help-Desk-Answer.pbix
+┣
+
+[📄](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
+
+[README.md](http://readme.md/)
+
+┗
+
+[📄](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
+
+dataset.
