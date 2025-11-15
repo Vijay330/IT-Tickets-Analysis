@@ -12,39 +12,26 @@ This project delivers an interactive Power BI dashboard designed to analyze and 
 - Support data-driven decisions to optimize help desk operations
   
 ## [📊](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)*Key Insights & Metrics*
-
 The dashboard includes the following analytics:
 
-[🔹](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
-
-### *Ticket Insights*
-
+### [🔹](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)*Ticket Insights*
 - Total tickets logged
 - Tickets resolved vs. pending
 - Ticket distribution by category & priority
 - Peak ticket days & hours
 
-[🔹](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
-
-### *Performance Metrics*
-
+### [🔹](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)*Performance Metrics*
 - Response Time & Resolution Time
 - SLA Compliance Rate
 - Agent-wise ticket count
 - Agent efficiency & workload summary
 
-[🔹](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
-
-### *Trend Analysis*
-
+### [🔹](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)*Trend Analysis*
 - Monthly ticket trends
 - Repeat issue patterns
 - Category-wise performance comparison
-
-[🛠](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
-
-## *Tools & Technologies Used*
-
+- 
+## [🛠](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)*Tools & Technologies Used*
 | *Component* | *Description* |
 | --- | --- |
 | Power BI Desktop | Dashboard development & visualization |
@@ -53,23 +40,7 @@ The dashboard includes the following analytics:
 | DAX Measures | Creating calculated fields and KPIs |
 
 ## *Repository Structure*
-
-
 IT-Help-Desk-Answering-System
 ┣ IT-Help-Desk-Answer.pbix
 ┣ README.md
 ┗ dataset
-
-
-IT-Help-Desk-Answer.pbix
-┣
-
-[📄](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
-
-[README.md](http://readme.md/)
-
-┗
-
-[📄](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
-
-dataset.
