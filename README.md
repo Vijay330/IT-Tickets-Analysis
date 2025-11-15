@@ -3,7 +3,7 @@
 
 *A Data-Driven Analysis for Efficient IT Support Operations*
 
-[📘](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==) ## *Overview*
+[📘](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)*Overview*
 
 This project delivers an interactive Power BI dashboard designed to analyze and visualize IT Help Desk ticket data. The dashboard provides actionable insights into ticket volumes, resolution trends, agent performance, SLA compliance, and overall support efficiency. It enables IT teams to monitor operations, identify bottlenecks, and improve customer service outcomes.
 
