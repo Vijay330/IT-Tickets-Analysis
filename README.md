@@ -1,25 +1,17 @@
  # [🖥](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)*IT Help Desk Answering System – Power BI Dashboard*
-
-
-*A Data-Driven Analysis for Efficient IT Support Operations*
-
+ 
 ## [📘](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==) Overview
 
 This project delivers an interactive Power BI dashboard designed to analyze and visualize IT Help Desk ticket data. The dashboard provides actionable insights into ticket volumes, resolution trends, agent performance, SLA compliance, and overall support efficiency. It enables IT teams to monitor operations, identify bottlenecks, and improve customer service outcomes.
 
-[🎯](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
-
-## *Project Objectives*
-
+## [🎯](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)*Project Objectives*
 - Provide a centralized view of IT support activities
 - Track ticket status, priorities, and categories
 - Evaluate agent performance with measurable KPIs
 - Identify recurring issues and workload patterns
 - Support data-driven decisions to optimize help desk operations
-
-[📊](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
-
-## *Key Insights & Metrics*
+  
+## [📊](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)*Key Insights & Metrics*
 
 The dashboard includes the following analytics:
 
